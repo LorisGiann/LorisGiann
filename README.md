@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi👋, I'm Loris 😁
+
+ - 📚🎓 I'm an IT engineer and student at the University of Bologna 
+ - 💻🖥 I'm passionate about computers, electronics.. and technology in general really
+ - 📻📟 Embedded systems, IoT and connected "smart" devices are of particular interest to me
+ - ☢⚡ Messing up with Raspberry PIs, Arduinos, electronics and programmable stuff is my specialty
 
 <!--
 **LorisGiann/LorisGiann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
